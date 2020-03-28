@@ -1,4 +1,4 @@
-# SkyrimWoodFarmingScrip
+# SkyrimWoodFarmingScript
 ### Script for farm firewood in Skyrim | Скрипт для фарма дров в Skyrim.
 ### Used code | Использовался код:
 1. [Github / Sentdex](https://github.com/Sentdex/pygta5/blob/master/directkeys.py)
