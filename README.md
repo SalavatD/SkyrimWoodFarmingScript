@@ -1,8 +1,5 @@
 # SkyrimWoodFarmingScript
 Script for farm firewood in Skyrim
-### Used code | Использовался код:
-1. [Github / Sentdex](https://github.com/Sentdex/pygta5/blob/master/directkeys.py)
-2. [Stackoverflow link](https://stackoverflow.com/questions/50601200/pyhon-directinput-mouse-relative-moving-act-not-as-expected)
 ### How to use?
 1. Open the script.
 2. Launch Skyrim.
