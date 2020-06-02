@@ -1,4 +1,4 @@
-# SkyrimWoodFarmingScript
+# skyrim_wood_farming_scrip
 Script for farm firewood in Skyrim
 ### How to use?
 1. Open the script.
