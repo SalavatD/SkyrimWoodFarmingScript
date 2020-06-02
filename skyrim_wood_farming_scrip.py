@@ -2,8 +2,6 @@ import ctypes
 import time
 
 ############################################
-# Skyrim Wood Farming Scrip. Version 1.0
-############################################
 # Moving the camera along the vertical axis.
 # Default moving = 800.
 ############################################
